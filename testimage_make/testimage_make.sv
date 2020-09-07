@@ -10,6 +10,8 @@ module testimage_make
     (
     
     
+    test
+    
     input   CLK,
     input   RST,
     
